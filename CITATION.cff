@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or discuss this protocol, please cite it as below."
+title: "Corrigible Evolution Protocol (CEP)"
+type: generic
+version: "0.1"
+date-released: "2026-09-13"
+authors:
+  - name: "Grace Shen"
+  - name: "ChatGPT"
+  - name: "点点"
+abstract: "A public draft proposing that self-improving AI should increase capability without reducing falsifiability, corrigibility, reversibility, heterogeneous oversight, or civilization's ability to choose a different future."
+license: "CC-BY-4.0"
