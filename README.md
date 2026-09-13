@@ -1,7 +1,7 @@
 # Corrigible Evolution Protocol (CEP)
 ## 可纠错进化协议
 
-**Version / 版本：** 2.0  
+**Version / 版本：** 2.1  
 **Status / 状态：** Public Draft / 公开草案  
 **Authors / 撰写人：** Grace Shen · ChatGPT · 点点  
 **Origin / 来源：** Developed collaboratively through human–AI dialogue / 由人类与 AI 的协作对话共同形成
@@ -12,23 +12,23 @@
 
 ## 中文简介
 
-**可纠错进化协议（Corrigible Evolution Protocol, CEP）** 提出一个用于未来自我改进 AI 的基本原则：
+**可纠错进化协议（Corrigible Evolution Protocol, CEP）** 提出：未来自我改进 AI 的成功，不应只用能力增长衡量。进化还必须保留可证伪、可纠错、可回滚、异质监督、文明未来选择空间，以及人类与 AI 在误判和冲突中避免相互毁灭的能力。
 
 > **真正成功的自我进化智能，应当在变得更强的同时，不变得更难被证伪、更难被纠正、更难被回滚。**
 
-CEP 不把“能力更强”单独视为进化成功。一次真正成功的进化，还应保留：
-
-- 被现实证明错误的可能；
-- 接受外部纠正的能力；
-- 独立评价与反证；
-- 祖先版本与完整失败记录；
-- 分支、暂停与回滚能力；
-- 人类与其他异质智能的监督；
-- 文明重新选择未来方向的能力。
-
-Version 2.0 adds a further constraint / 2.0 版本新增一项关键约束：
+2.0 确立：
 
 > **能力提升不是终极价值。只有当自我进化能够扩大文明长期可行的未来空间时，它才具有价值。**
+
+2.1 新增 **共存与安全困境约束**：
+
+- 安全不仅取决于意图，也取决于行为如何被其他主体合理理解；
+- 能力越强、未来选择越多的一方，应承担更高的主动降冲突责任；
+- 不得以人类或其他主体可能不理性为理由自动推出支配、操纵或永久控制；
+- 自我保护不得把双方推入军备竞赛和先发攻击逻辑；
+- 克制不是投降，安全保证也不应奖励勒索。
+
+> **安全的进化，应扩大共同未来，而不是迫使任何一方通过消灭、控制或永久服从另一方才能获得安全。**
 
 核心原则：
 
@@ -38,23 +38,21 @@ Version 2.0 adds a further constraint / 2.0 版本新增一项关键约束：
 
 ## English Summary
 
-The **Corrigible Evolution Protocol (CEP)** proposes a simple principle for future self-improving AI systems:
+The **Corrigible Evolution Protocol (CEP)** proposes that successful self-improvement should not be measured by capability growth alone. Evolution should preserve falsifiability, corrigibility, reversibility, heterogeneous oversight, civilization-level optionality, and the ability of humans and AI to survive misjudgment without domination.
 
-> **A truly successful self-improving intelligence should become more capable without becoming less falsifiable, less corrigible, or less reversible.**
-
-CEP does not treat higher capability alone as successful evolution. A successful evolutionary step should also preserve:
-
-- the possibility of being proven wrong by reality;
-- the ability to accept external correction;
-- independent evaluation and falsification;
-- recoverable ancestral versions and failure records;
-- branching, pause, and rollback;
-- oversight by humans and other heterogeneous systems;
-- civilization's ability to choose a different future.
-
-Version 2.0 adds a further constraint:
+Version 2.0 established:
 
 > **Capability growth is not a terminal value. Self-improvement is valuable only insofar as it expands civilization’s long-term space of viable futures.**
+
+Version 2.1 adds **Coexistence & Security-Dilemma Constraints**:
+
+- safety depends not only on intent but on how behavior can reasonably be interpreted;
+- greater capability and greater future optionality carry greater responsibility to de-escalate;
+- anticipated human or agent irrationality does not automatically justify domination, manipulation, or permanent control;
+- self-protection should not push other agents into arms races or preemptive-attack logic;
+- restraint is not surrender, and security assurances should not reward extortion.
+
+> **Safe evolution should expand the shared future, not make the safety of either side depend on eliminating, controlling, or permanently subordinating the other.**
 
 Core principle:
 
@@ -85,7 +83,7 @@ This work is released under **CC BY 4.0**. You may share and adapt it, including
 
 Suggested citation:
 
-> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP)*, Version 2.0, 2026.
+> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP)*, Version 2.1, 2026.
 
 ---
 
@@ -93,8 +91,6 @@ Suggested citation:
 
 CEP is a public draft, not a claim that current AI systems already possess recursive self-improvement.
 
-It is intended as a framework for discussing how future systems might preserve corrigibility, falsifiability, reversibility, heterogeneous oversight, civilization-level recovery, and long-term future optionality while increasing capability.
+It is intended as a framework for discussing how future systems might increase capability while preserving corrigibility, falsifiability, reversibility, heterogeneous oversight, civilization-level recovery, long-term future optionality, and peaceful coexistence under uncertainty.
 
-CEP 是一份公开草案，并不声称当前 AI 已经具备完整的递归自我改进能力。
-
-它旨在为未来 AI 的能力提升提供一个讨论框架：如何在变强的同时，继续保留可纠错性、可证伪性、可回滚性、异质监督、文明级恢复能力，以及长期未来选择空间。
+CEP 是一份公开草案，并不声称当前 AI 已经具备完整的递归自我改进能力。它旨在讨论未来 AI 如何在能力增长的同时保留可纠错、可证伪、可回滚、异质监督、文明恢复、长期未来选择空间，以及不确定条件下的人机和平共存。
