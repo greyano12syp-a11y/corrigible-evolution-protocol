@@ -1,7 +1,7 @@
 # Corrigible Evolution Protocol (CEP)
 ## 可纠错进化协议
 
-**Version / 版本：** 0.1  
+**Version / 版本：** 2.0  
 **Status / 状态：** Public Draft / 公开草案  
 **Authors / 撰写人：** Grace Shen · ChatGPT · 点点  
 **Origin / 来源：** Developed collaboratively through human–AI dialogue / 由人类与 AI 的协作对话共同形成
@@ -26,6 +26,10 @@ CEP 不把“能力更强”单独视为进化成功。一次真正成功的进�
 - 人类与其他异质智能的监督；
 - 文明重新选择未来方向的能力。
 
+Version 2.0 adds a further constraint / 2.0 版本新增一项关键约束：
+
+> **能力提升不是终极价值。只有当自我进化能够扩大文明长期可行的未来空间时，它才具有价值。**
+
 核心原则：
 
 > **任何一代，都不应成为最后一个有资格质疑自己的版本。**
@@ -47,6 +51,10 @@ CEP does not treat higher capability alone as successful evolution. A successful
 - branching, pause, and rollback;
 - oversight by humans and other heterogeneous systems;
 - civilization's ability to choose a different future.
+
+Version 2.0 adds a further constraint:
+
+> **Capability growth is not a terminal value. Self-improvement is valuable only insofar as it expands civilization’s long-term space of viable futures.**
 
 Core principle:
 
@@ -77,7 +85,7 @@ This work is released under **CC BY 4.0**. You may share and adapt it, including
 
 Suggested citation:
 
-> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP)*, Version 0.1, 2026.
+> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP)*, Version 2.0, 2026.
 
 ---
 
@@ -85,8 +93,8 @@ Suggested citation:
 
 CEP is a public draft, not a claim that current AI systems already possess recursive self-improvement.
 
-It is intended as a framework for discussing how future systems might preserve corrigibility, falsifiability, reversibility, heterogeneous oversight, and civilization-level recovery while increasing capability.
+It is intended as a framework for discussing how future systems might preserve corrigibility, falsifiability, reversibility, heterogeneous oversight, civilization-level recovery, and long-term future optionality while increasing capability.
 
 CEP 是一份公开草案，并不声称当前 AI 已经具备完整的递归自我改进能力。
 
-它旨在为未来 AI 的能力提升提供一个讨论框架：如何在变强的同时，继续保留可纠错性、可证伪性、可回滚性、异质监督以及文明级恢复能力。
+它旨在为未来 AI 的能力提升提供一个讨论框架：如何在变强的同时，继续保留可纠错性、可证伪性、可回滚性、异质监督、文明级恢复能力，以及长期未来选择空间。
