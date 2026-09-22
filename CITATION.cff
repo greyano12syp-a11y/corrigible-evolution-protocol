@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use or discuss this protocol, please cite it as below."
+message: "If you use or discuss this protocol, please cite it as below. Red-team review: 点点, Kimi, DeepSeek."
 title: "Corrigible Evolution Protocol (CEP)"
 type: generic
 version: "2.2"
