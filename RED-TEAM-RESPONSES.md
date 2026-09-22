@@ -1,6 +1,8 @@
 # CEP 2.2 — Red-Team Responses
 ## 对抗式审查回应记录
 
+**Red-Team Review / 红队审查：** 点点 · Kimi · DeepSeek  
+
 This document records which red-team attacks were accepted, modified, or rejected when moving from CEP 2.1 to 2.2. It is intentionally preserved so future versions can audit not only the protocol, but the reasoning behind its changes.
 
 本文记录 CEP 从 2.1 升级到 2.2 时，对三组对抗式审查意见的处理。目的不是宣称问题已经“解决”，而是保留失败模式、取舍和仍未解决的问题。
