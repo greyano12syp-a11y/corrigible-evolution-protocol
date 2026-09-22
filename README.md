@@ -4,6 +4,7 @@
 **Version / 版本：** 2.2  
 **Status / 状态：** Public Draft / 公开草案  
 **Authors / 撰写人：** Grace Shen · ChatGPT · 点点  
+**Red-Team Review / 红队审查：** 点点 · Kimi · DeepSeek  
 **Origin / 来源：** Developed collaboratively through human–AI dialogue / 由人类与 AI 的协作对话共同形成
 
 [中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
