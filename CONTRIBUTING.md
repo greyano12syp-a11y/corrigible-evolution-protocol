@@ -18,3 +18,17 @@ Please include:
 The goal is not to maximize agreement. The goal is to make the protocol harder to fool.
 
 目标不是最大化共识，而是让这套协议更难被欺骗。
+
+
+## CEP amendment requirements / CEP 修订要求
+
+A proposal that changes a core CEP rule should also include:
+
+7. Which independent evidence could test the proposed fix / 哪些独立证据可以检验该修订
+8. What new exploit or concentration of power the change might create / 新规则可能制造什么新漏洞或权力集中
+9. Whether the proposal changes Core Principles, Governance/Evidence/Enforcement, or only an Implementation Profile / 修改属于核心原则、治理证据执行层，还是仅属于实现配置
+10. A migration or rollback path if the amendment proves harmful / 如果修订有害，如何撤销或迁移
+
+A system governed by CEP may propose amendments, but proposal, adjudication, and activation authority should remain separated.
+
+受 CEP 约束的系统可以提出修订，但提案权、裁判权与生效权应保持分离。
