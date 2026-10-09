@@ -9,7 +9,10 @@
 
 [中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
 
-> **Proposed 2.3 (unmerged discussion draft) / 2.3 候选修订（尚未合并）:** [中文：文明原则、公民 AI 自主权与反权力俘获](CEP-2.3-PROPOSAL.zh-CN.md) · [English: Civilizational Principles, Civilian AI Agency & Anti-Capture](CEP-2.3-PROPOSAL.en.md). These drafts are **not** the adopted CEP 2.2 protocol, legal standards, or validated alignment mechanisms. / 本提案尚未正式纳入 CEP 2.2，也不代表已经通过独立验证。
+> **Latest CEP 2.3 candidate, v3 / 当前 CEP 2.3 最新候选修订 v3：** [中文修订稿](CEP-2.3-REVISED-v3.zh-CN.md) · [English revised draft](CEP-2.3-REVISED-v3.en.md). It incorporates two adversarial review inputs, remains unmerged, and is neither legally binding nor independently validated. / 已回应两份对抗审查意见，尚未合并正式版本，亦未获得独立验证。
+
+> **Earlier v1 candidate / 早期初稿（仅作修订历史）:** [中文 v1](CEP-2.3-PROPOSAL.zh-CN.md) · [English v1](CEP-2.3-PROPOSAL.en.md).
+
 
 ---
 
