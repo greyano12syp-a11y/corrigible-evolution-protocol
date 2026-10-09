@@ -9,6 +9,13 @@
 
 [中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
 
+> **CEP 2.3 v5.1 — latest public discussion draft / 最新公开讨论草案（2026-10-10）**  
+> [中文全文](CEP-2.3-REVISED-v5.1.zh-CN.md) · [English full draft](CEP-2.3-REVISED-v5.1.en.md)  
+> [审查收束说明（中文）](CEP-2.3-v5.1-REVIEW-CLOSEOUT.zh-CN.md) · [Review closeout (English)](CEP-2.3-v5.1-REVIEW-CLOSEOUT.en.md)  
+> **Review phase closed by the authors; discussion draft only — no official certification, legal force, or proven deployment safety.**  
+> **作者决定结束本阶段反复审查；草案仅供公开讨论，不构成官方认证、法律效力或现实部署安全证明。**
+
+
 ---
 
 ## 中文简介
