@@ -9,7 +9,9 @@
 
 [中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
 
-> **Latest CEP 2.3 candidate, v4 / 当前 CEP 2.3 最新候选修订 v4：** [中文完整版](CEP-2.3-REVISED-v4.zh-CN.md) · [Full English candidate](CEP-2.3-REVISED-v4.en.md). Addresses two further independent red-team reports; **unmerged, unvalidated, no official certification**. / 回应新增两份红队意见；尚未合并、未通过独立验证，不构成正式认证。
+> **Latest CEP 2.3 candidate, v5.1 / 当前 CEP 2.3 最新候选修订 v5.1：** [中文草案](CEP-2.3-REVISED-v5.1.zh-CN.md) · [English draft](CEP-2.3-REVISED-v5.1.en.md) · [非独立桌面预检记录](CEP-2.3-v5.1-TABLETOP-PREFLIGHT.zh-CN.md). Status: **discussion candidate**, tabletop preflight only; **no independent verification or certification**.
+
+> **Earlier v4 candidate / 历史 v4 草案：** [中文 v4](CEP-2.3-REVISED-v4.zh-CN.md) · [English v4](CEP-2.3-REVISED-v4.en.md).
 
 > **Prior v3 candidate / 历史 v3 草案：** [中文 v3](CEP-2.3-REVISED-v3.zh-CN.md) · [English v3](CEP-2.3-REVISED-v3.en.md).
 
