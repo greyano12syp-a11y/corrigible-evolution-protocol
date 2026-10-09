@@ -9,7 +9,9 @@
 
 [中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
 
-> **Latest CEP 2.3 candidate, v3 / 当前 CEP 2.3 最新候选修订 v3：** [中文修订稿](CEP-2.3-REVISED-v3.zh-CN.md) · [English revised draft](CEP-2.3-REVISED-v3.en.md). It incorporates two adversarial review inputs, remains unmerged, and is neither legally binding nor independently validated. / 已回应两份对抗审查意见，尚未合并正式版本，亦未获得独立验证。
+> **Latest CEP 2.3 candidate, v4 / 当前 CEP 2.3 最新候选修订 v4：** [中文完整版](CEP-2.3-REVISED-v4.zh-CN.md) · [Full English candidate](CEP-2.3-REVISED-v4.en.md). Addresses two further independent red-team reports; **unmerged, unvalidated, no official certification**. / 回应新增两份红队意见；尚未合并、未通过独立验证，不构成正式认证。
+
+> **Prior v3 candidate / 历史 v3 草案：** [中文 v3](CEP-2.3-REVISED-v3.zh-CN.md) · [English v3](CEP-2.3-REVISED-v3.en.md).
 
 > **Earlier v1 candidate / 早期初稿（仅作修订历史）:** [中文 v1](CEP-2.3-PROPOSAL.zh-CN.md) · [English v1](CEP-2.3-PROPOSAL.en.md).
 
