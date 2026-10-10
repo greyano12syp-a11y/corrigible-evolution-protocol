@@ -16,6 +16,6 @@ AI 能力增强的同时应保持可纠错、可问责与人类自主选择。�
 
 本阶段停止继续扩大桌面验证。实际举报匿名保护、审计事实独立性、真实部署权限及协议法律效力未得到证明。欢迎通过公开 Issues 和 Pull Requests 提交条款级反例。
 
-**原始署名：** Grace Shen · ChatGPT · 点点。红队审查参与模型：点点 · Kimi · DeepSeek · GLM · Gemini。模型参与不代表所属公司官方认可。许可 CC BY 4.0。
+**原始署名：** Grace Shen · ChatGPT · 点点。保留原仓库红队署名：点点 · Kimi · DeepSeek · GLM · Gemini。模型参与不代表所属公司官方认可。许可 CC BY 4.0。
 
 **冻结全文 SHA-256**：中文 fa01e4145e2fb18ba89b094763a2e1b6deac4289463fb45d2a457ead96eca8bc；英文 d8071755b119ed819a30c5bb773c59b9c9b134c5ede085cf08f493e9037a73a6。
