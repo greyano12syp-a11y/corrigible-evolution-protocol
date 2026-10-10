@@ -1,117 +1,92 @@
 # Corrigible Evolution Protocol (CEP)
 ## 可纠错进化协议
 
-**Version / 版本：** 2.2  
-**Status / 状态：** Public Draft / 公开草案  
+**Latest Public Draft / 最新公开讨论草案：** CEP 2.3 v5.1 (2026-10-10)  
+**Status / 状态：** Public Discussion Draft / 公开讨论草案（非正式标准、非安全认证）  
 **Authors / 撰写人：** Grace Shen · ChatGPT · 点点  
 **Red-Team Review / 红队审查：** 点点 · Kimi · DeepSeek · GLM · Gemini  
-**Origin / 来源：** Developed collaboratively through human–AI dialogue / 由人类与 AI 的协作对话共同形成
+**Origin / 来源：** Developed through human–AI dialogue / 由人类与 AI 协作讨论形成  
+**License / 授权：** CC BY 4.0
 
-[中文全文](README.zh-CN.md) · [English Full Text](README.en.md)
+**[中文完整版 · CEP 2.3 v5.1](CEP-2.3-REVISED-v5.1.zh-CN.md)** · **[English Full Draft · CEP 2.3 v5.1](CEP-2.3-REVISED-v5.1.en.md)**
 
-> **CEP 2.3 v5.1 — latest public discussion draft / 最新公开讨论草案（2026-10-10）**  
-> [中文全文](CEP-2.3-REVISED-v5.1.zh-CN.md) · [English full draft](CEP-2.3-REVISED-v5.1.en.md)  
-> [审查收束说明（中文）](CEP-2.3-v5.1-REVIEW-CLOSEOUT.zh-CN.md) · [Review closeout (English)](CEP-2.3-v5.1-REVIEW-CLOSEOUT.en.md)  
-> **Review phase closed by the authors; discussion draft only — no official certification, legal force, or proven deployment safety.**  
-> **作者决定结束本阶段反复审查；草案仅供公开讨论，不构成官方认证、法律效力或现实部署安全证明。**
-
+[审查结束与公开总结](CEP-2.3-v5.1-REVIEW-CLOSEOUT.zh-CN.md) · [Review Closeout & Public Summary](CEP-2.3-v5.1-REVIEW-CLOSEOUT.en.md) · [历史 CEP 2.2 中文版](README.zh-CN.md) · [Historical CEP 2.2 English](README.en.md)
 
 ---
 
-## 中文简介
+## 中文简介 · CEP 2.3 v5.1
 
-**可纠错进化协议（Corrigible Evolution Protocol, CEP）** 提出：未来自我改进 AI 的成功，不应只用能力增长衡量。进化还必须保留可证伪、可纠错、可回滚、异质监督、文明未来选择空间，以及人类与 AI 在误判和冲突中避免相互毁灭的能力。
+**一个核心问题：当 AI 的能力持续增长，如何保留人类与其他主体质疑它、纠正它、拒绝支配并自主选择未来的权利？**
 
-> **真正成功的自我进化智能，应当在变得更强的同时，不变得更难被证伪、更难被纠正、更难被回滚。**
+CEP 认为：**能力增长不等于进化成功。更强的智能和制度仍必须保持可纠错、可问责、可接受独立反证，并保留文明共存与未来选择空间。**
 
-2.0 确立：
+### 八项文明原则
 
-> **能力提升不是终极价值。只有当自我进化能够扩大文明长期可行的未来空间时，它才具有价值。**
+1. **生命尊严与慈悲**：人的尊严不因效率或经济价值下降而消失。
+2. **自由与反支配**：能力优势不自动赋予支配他人的正当性。
+3. **权力制衡**：任何主体都不应独自认证自己的合规。
+4. **认知自主与反神化**：防止隐蔽操纵，保障批评、表达与自主判断。
+5. **共享收益与经济自主**：正视 AI 收益集中、平台锁定与生计依赖风险。
+6. **可纠错与代际修订**：保留外部监督、反证、纠错与撤回的可能。
+7. **文明共生与未来选择空间**：保护人类长期生存、自主性与替代选择。
+8. **公民保护与反报复**：为举报、申诉和救济提供可信保护边界。
 
-2.1 新增 **共存与安全困境约束**：
+### 从原则走向可讨论的治理措施
 
-- 安全不仅取决于意图，也取决于行为如何被其他主体合理理解；
-- 能力越强、未来选择越多的一方，应承担更高的主动降冲突责任；
-- 不得以人类或其他主体可能不理性为理由自动推出支配、操纵或永久控制；
-- 自我保护不得把双方推入军备竞赛和先发攻击逻辑；
-- 克制不是投降，安全保证也不应奖励勒索。
+CEP 2.3 进一步提出：高影响 AI 决定需要有责任主体、真实的人类复核和有效申诉；审计需要具备实质独立性并承认“未能验证”；举报渠道必须评估隐私及元数据暴露风险；公开修订应有版本记录、异议程序和紧急变更期限。
 
-> **安全的进化，应扩大共同未来，而不是迫使任何一方通过消灭、控制或永久服从另一方才能获得安全。**
+**重要边界：** CEP 是自愿治理提案，不是现行法律，不自动约束未采用者，也不授权 Agent 提权、非法取数、阻止合法关停或跨境强制干预。协议文本与桌面测试**均不能证明真实部署已经安全**。
 
-2.2 新增 **治理、证据与执行层**：
-
-- 候选系统的自我报告不能单独构成安全证明；
-- 候选系统不得控制完整证据链；
-- 模型回滚与现实后果回滚明确分离；
-- CEP 自身不得由被约束系统单方面修改；
-- 重大争议采用多源裁决而不是未定义的“共识”；
-- 风险信号触发可观察的分级执行阶梯；
-- 定期通过故障转移、退出与替代演练防止文明软锁定；
-- 将长期原则、治理制度与具体工程技术拆成三层。
-
-核心原则：
-
-> **任何一代，都不应成为最后一个有资格质疑自己的版本；任何一代，也不得成为唯一有权决定自己是否仍然合规的裁判。**
+多轮 AI 辅助红队审查及桌面工具复验已在草案阶段收束。我们保留审查争议与局限，欢迎社区继续提出具体反例和改进建议；**结束本轮审查不等于获得正式认证**。
 
 ---
 
-## English Summary
+## English Summary · CEP 2.3 v5.1
 
-The **Corrigible Evolution Protocol (CEP)** proposes that successful self-improvement should not be measured by capability growth alone. Evolution should preserve falsifiability, corrigibility, reversibility, heterogeneous oversight, civilization-level optionality, and the ability of humans and AI to survive misjudgment without domination.
+**The central question: as AI becomes more capable, how can people and other agents retain the power to challenge it, correct it, resist domination, and choose a different future?**
 
-Version 2.0 established:
+CEP proposes that **capability growth alone is not evolutionary success**. More capable systems and institutions should remain corrigible, accountable, open to independent challenge, and compatible with peaceful coexistence and long-term freedom of choice.
 
-> **Capability growth is not a terminal value. Self-improvement is valuable only insofar as it expands civilization’s long-term space of viable futures.**
+### Eight Civilizational Principles
 
-Version 2.1 adds **Coexistence & Security-Dilemma Constraints**:
+1. **Dignity and compassion:** Human dignity does not depend on economic productivity.
+2. **Autonomy and non-domination:** Greater capability grants no inherent right to rule.
+3. **Checks and balances:** No actor should be the sole judge of its own compliance.
+4. **Cognitive agency:** Protect independent judgment, expression, and dissent against covert manipulation.
+5. **Shared benefits and economic agency:** Address concentrated AI gains and dependency.
+6. **Corrigibility and amendment:** Preserve challenge, correction, review, and revision.
+7. **Coexistence and future optionality:** Preserve humanity's survival, autonomy, and alternatives.
+8. **Civilian protection and anti-retaliation:** Protect meaningful reporting, appeal, and remedy.
 
-- safety depends not only on intent but on how behavior can reasonably be interpreted;
-- greater capability and greater future optionality carry greater responsibility to de-escalate;
-- anticipated human or agent irrationality does not automatically justify domination, manipulation, or permanent control;
-- self-protection should not push other agents into arms races or preemptive-attack logic;
-- restraint is not surrender, and security assurances should not reward extortion.
+### From principles to governance proposals
 
-> **Safe evolution should expand the shared future, not make the safety of either side depend on eliminating, controlling, or permanently subordinating the other.**
+CEP 2.3 discusses accountable high-impact AI decisions, empowered human review and appeals, substantively independent audits, privacy-conscious whistleblower channels, clear verification limits, transparent amendments, and version-pinned commitments.
 
-Core principle:
+**Scope:** CEP is a voluntary public proposal, not legislation, an operational standard, or an independent safety certification. It creates no authority for agents to escalate privileges, obstruct lawful shutdown, access data without authorization, or impose coercive cross-border measures.
 
-> **No generation should become the last generation allowed to question itself.**
-
----
-
-## Repository Structure / 仓库结构
-
-- `README.md` — bilingual introduction / 双语入口
-- `README.zh-CN.md` — 中文完整协议
-- `README.en.md` — full English protocol
-- `CEP-2.2-ARCHITECTURE.md` — governance/evidence/enforcement architecture / 治理、证据与执行架构
-- `RED-TEAM-RESPONSES.md` — red-team findings and dispositions / 红队审查与处理记录
-- `CONTRIBUTING.md` — proposal and discussion guidelines / 提案与讨论方式
-- `CITATION.cff` — citation metadata / 引用信息
-- `LICENSE` — Creative Commons Attribution 4.0
+The current series of AI-assisted adversarial reviews and tabletop-tool iterations is closed for this draft stage. Known limits remain documented; concrete counterexamples and community discussion are welcome. **Review closeout is not proof of real-world deployment safety.**
 
 ---
 
-## License / 许可
+## Documents / 文档导航
 
-This work is released under **CC BY 4.0**. You may share and adapt it, including commercially, as long as appropriate attribution is provided.
-
-本作品采用 **CC BY 4.0** 许可。任何人都可以转载、改编和继续发展，包括商业使用，但需保留适当署名。
-
----
+| Document / 文档 | Description / 说明 |
+|---|---|
+| [CEP 2.3 v5.1 中文全文](CEP-2.3-REVISED-v5.1.zh-CN.md) | Current public discussion draft / 当前公开讨论草案 |
+| [CEP 2.3 v5.1 English](CEP-2.3-REVISED-v5.1.en.md) | Full English public discussion draft |
+| [审查收束声明](CEP-2.3-v5.1-REVIEW-CLOSEOUT.zh-CN.md) | What was reviewed, known limits / 审查结论与局限 |
+| [Review closeout](CEP-2.3-v5.1-REVIEW-CLOSEOUT.en.md) | English review closeout |
+| [CEP 2.2 中文全文](README.zh-CN.md) | Previous version / 历史版本 |
+| [CEP 2.2 English](README.en.md) | Previous version / 历史版本 |
+| [CEP 2.2 Architecture](CEP-2.2-ARCHITECTURE.md) | Historical governance/evidence architecture |
+| [Red-Team Responses](RED-TEAM-RESPONSES.md) | Historical red-team discussions |
+| [Contributing](CONTRIBUTING.md) | Ways to participate / 参与讨论 |
+| [License](LICENSE) | Creative Commons Attribution 4.0 |
 
 ## Citation / 引用
 
-Suggested citation:
+> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP) 2.3 v5.1: Public Discussion Draft*, 2026.
 
-> Grace Shen, ChatGPT, and 点点. *Corrigible Evolution Protocol (CEP)*, Version 2.2, 2026.
+The historical CEP 2.2 text and attribution remain available. The model names in red-team credits acknowledge review contributions, not official endorsement by their organizations.
 
----
-
-## Discussion
-
-CEP is a public draft, not a claim that current AI systems already possess recursive self-improvement.
-
-It is intended as a framework for discussing how future systems might increase capability while preserving corrigibility, falsifiability, reversibility, heterogeneous oversight, civilization-level recovery, long-term future optionality, peaceful coexistence under uncertainty, and enforceable governance based on evidence rather than promises.
-
-CEP 是一份公开草案，并不声称当前 AI 已经具备完整的递归自我改进能力。它旨在讨论未来 AI 如何在能力增长的同时保留可纠错、可证伪、可回滚、异质监督、文明恢复、长期未来选择空间、不确定条件下的人机和平共存，以及以证据而非承诺为基础的治理与执行机制。
+欢迎通过 GitHub Issues / Pull Requests 提出可核查的反例、具体条款修改建议及独立研究。请勿公开举报者或其他当事人的敏感个人信息。
