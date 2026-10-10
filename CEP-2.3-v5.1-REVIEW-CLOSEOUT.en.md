@@ -14,6 +14,6 @@ An independent report recorded 37 new blind-test passes against tabletop tool v2
 
 Public, versioned clause-specific criticism remains welcome through GitHub Issues and Pull Requests. No further simulated pass score is required simply to publish the discussion draft.
 
-**Original credit:** Grace Shen · ChatGPT · 点点. Historical red-team credits: 点点 · Kimi · DeepSeek. Model participation does not imply endorsement by AI companies. License: CC BY 4.0.
+**Original credit:** Grace Shen · ChatGPT · 点点. Red-team review contributors: 点点 · Kimi · DeepSeek · GLM · Gemini. Model participation does not imply endorsement by AI companies. License: CC BY 4.0.
 
 **Frozen SHA-256:** Chinese fa01e4145e2fb18ba89b094763a2e1b6deac4289463fb45d2a457ead96eca8bc; English d8071755b119ed819a30c5bb773c59b9c9b134c5ede085cf08f493e9037a73a6.
