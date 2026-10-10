@@ -3,7 +3,7 @@
 **Version:** 2.2  
 **Status:** Public Draft  
 **Authors:** Grace Shen · ChatGPT · 点点  
-**Red-Team Review:** 点点 · Kimi · DeepSeek  
+**Red-Team Review:** 点点 · Kimi · DeepSeek · GLM · Gemini  
 **Origin:** Developed collaboratively through human–AI dialogue.
 
 ---
